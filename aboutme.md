@@ -2,7 +2,7 @@
 layout: page
 title: Links
 subtitle: the linkbook
-cover-img: "/assets/img/cover1.jpg"
+cover-img: "/assets/img/titleimg.png"
 ---
  
 - [Bio](https://linkr.bio/tdfm)

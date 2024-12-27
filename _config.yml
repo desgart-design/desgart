@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://linkr.bio/tdfm"
 
 ################
 # --- Logo --- #
@@ -52,7 +52,7 @@ title-img: "/assets/img/tonbanner.png"
 social-network-links:
   email: "diergarten@online.de"
   facebook: "https://www.facebook.com/tdfmfb"
-  github: desgart-design
+  github: "desgart-design"
 #  twitter: daattali
 #  patreon: DeanAttali
   youtube: "@tdfmtube"
@@ -64,7 +64,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-   spotify: Töne, die Freude machen
+   spotify: "Töne, die Freude machen"
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -75,7 +75,6 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname

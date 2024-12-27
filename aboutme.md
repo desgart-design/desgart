@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Links
-subtitle: the linkbook
-cover-img: "/assets/img/titleimg.png"
 ---
  
 - [Bio](https://linkr.bio/tdfm)

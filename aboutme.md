@@ -12,4 +12,5 @@ title: LINKS
 
 - [Unsplash](https://unsplash.com/de)
 - [Freepik](https://de.freepik.com/)
-- [![Pinterest](/assets/img/jan.png)](https://linkr.bio/tdfm/)
+- [![Bio](/assets/img/jan.png)](https://linkr.bio/tdfm/)
+- [![Apple Music](/assets/img/jan.png)](https://linkr.bio/tdfm/)

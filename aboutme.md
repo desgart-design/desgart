@@ -1,12 +1,13 @@
 ---
 layout: page
-title: LINKS
+title: Links
 ---
 
 ### Music
 
-- [Bio](https://linkr.bio/tdfm)
-- [Spotify](https://open.spotify.com/playlist/6S1PFxAnGnnZs2fqehUR8e?si=A6M10DDjRHKjNFBAbLEw8Q)
+- [![Bio](assets/img/bio.png)](https://linkr.bio/tdfm/)
+- [![Soundclouc](assets/img/spot.png)](https://open.spotify.com/playlist/6S1PFxAnGnnZs2fqehUR8e?si=A6M10DDjRHKjNFBAbLEw8Q)
+- [![Spotify](assets/img/spot.png)](https://open.spotify.com/playlist/6S1PFxAnGnnZs2fqehUR8e?si=A6M10DDjRHKjNFBAbLEw8Q)
 
 ### Design
 

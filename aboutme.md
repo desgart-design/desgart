@@ -5,7 +5,7 @@ title: Links
 
 ### Music
 
-[![Bio](assets/img/bioc.png)](https://linkr.bio/tdfm/)
+[![Bio](assets/img/bio.png)](https://linkr.bio/tdfm/)
 [![Soundclouc](assets/img/spot.png)](https://open.spotify.com/playlist/6S1PFxAnGnnZs2fqehUR8e?si=A6M10DDjRHKjNFBAbLEw8Q)
 [![Spotify](assets/img/spot.png)](https://open.spotify.com/playlist/6S1PFxAnGnnZs2fqehUR8e?si=A6M10DDjRHKjNFBAbLEw8Q)
 

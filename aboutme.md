@@ -7,7 +7,7 @@ title: LINKS
 
 [Bio](https://linkr.bio/tdfm)
 
-[![Spotify](/assets/img/spotify.png)](https://open.spotify.com/playlist/6S1PFxAnGnnZs2fqehUR8e?si=A6M10DDjRHKjNFBAbLEw8Q)
+[![Spotify](/assets/img/sp.png)](https://open.spotify.com/playlist/6S1PFxAnGnnZs2fqehUR8e?si=A6M10DDjRHKjNFBAbLEw8Q)
 
 [![Bio](/assets/img/tonbanners.png)](https://linkr.bio/tdfm/)
 

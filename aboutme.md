@@ -5,7 +5,11 @@ title: LINKS
 
 ### Music
 
-[Bio](https://linkr.bio/tdfm) [Spotify](https://open.spotify.com/playlist/6S1PFxAnGnnZs2fqehUR8e?si=A6M10DDjRHKjNFBAbLEw8Q) [![Pinterest](/assets/img/jans.png)](https://linkr.bio/tdfm/)[![Bio](/assets/img/tonbanners.png)](https://linkr.bio/tdfm/)
+[Bio](https://linkr.bio/tdfm)
+
+[![Spotify](/assets/img/spotify.png)](https://open.spotify.com/playlist/6S1PFxAnGnnZs2fqehUR8e?si=A6M10DDjRHKjNFBAbLEw8Q)
+
+[![Bio](/assets/img/tonbanners.png)](https://linkr.bio/tdfm/)
 
 ### Design
 

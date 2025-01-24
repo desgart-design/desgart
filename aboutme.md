@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LINKS
+title: Links
 ---
 
 [![Bio](/icon.png)](https://linkr.bio/tdfm/)

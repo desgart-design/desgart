@@ -3,8 +3,10 @@ layout: page
 title: Links
 ---
 
-[![Bio](/icon.png)](https://linkr.bio/tdfm/)
+[![Bio](/assets/img/ban.png)](https://linkr.bio/tdfm/)
 
-[![desgart](/panel.png)](https://desgart-design.github.io/pics/)
+[![Desgart](/assets/img/desgart.png)](https://desgart-design.github.io/pics/)
 
-[![flickr](/panel.png)](https://flickr.com/photos/202113647@N06)
+[![Flickr](/assets/img/flickr.png)](https://flickr.com/photos/202113647@N06/)
+
+[![Startpage](/assets/img/cloud.png)](https://desgart-design.github.io/start/)

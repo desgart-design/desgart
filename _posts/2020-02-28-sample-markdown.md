@@ -25,11 +25,11 @@ author: Cill Bosby
 
 [Link in bio](https://linkr.bio/tdfm/)
 
-### Picture Gsllrty
+### Picture Gallery
 
 [desgart.desigm Befpre & After](hhttps://desgart-design.github.io/pics/)
 
 ### Notification
 
 {: .box-note}
-**Note:** Täne, die Freude machen
+**Note:** Töne, die Freude machen

@@ -90,7 +90,7 @@ rss-description: electronic music
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: false
+  facebook: true
   linkedin: false
   vk: false
 
@@ -147,7 +147,7 @@ footer-hover-col: "#0085A1"
 
 # navbar-img: "/assets/img/path.jpg"
 # footer-img: "/assets/img/mint.jpg"
-# page-img: "/assets/img/diealbg.jpg"
+page-img: "bg.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"

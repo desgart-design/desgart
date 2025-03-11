@@ -5,7 +5,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/bio.png
 share-img: /assets/img/bio.png
 subtitle: important url`s
-gh-repo: desgart-design.github.io
+gh-repo: desgart-design.desgart
 gh-badge: [star, fork, follow]
 tags: [links]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bookmark this!
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/bio.png
-share-img: /assets/img/bio.png
+cover-img: /assets/img/home.png
+thumbnail-img: /assets/img/home.png
+share-img: /assets/img/home.png
 subtitle: important url`s
 tags: [links]
 comments: true

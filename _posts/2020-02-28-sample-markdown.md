@@ -13,9 +13,7 @@ mathjax: true
 author: Cill Bosby
 ---
 
-![thumb](/assets/img/home.png)
-
-{: .mx-auto.d-block :}
+![thumb](/assets/img/home.png){: .mx-auto.d-block :}
 
 ## This is a bookmark post to store important websites
 

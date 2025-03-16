@@ -25,12 +25,15 @@ author: Cill Bosby
 
 ### Picture Gallery
 
-[desgart.desigm Befpre & After](hhttps://desgart-design.github.io/pics/)
+[desgart.desigm Before & After](hhttps://desgart-design.github.io/pics/)
 
 ### linktree
 
 [Linktree](https://desgart-design.github.io/mnml/)
 
+### Footer
+
+![banner](/assets/img/banner.png)
 
 ### Notification
 

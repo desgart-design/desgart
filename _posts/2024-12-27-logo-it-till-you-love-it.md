@@ -13,4 +13,4 @@ author: TdFm
 
 Music
 
-![Assets](https://desgart-design.github.io/desgart/assets/) "assets")
+![Assets](https://desgart-design.github.io/desgart/assets/02.png) "assets")

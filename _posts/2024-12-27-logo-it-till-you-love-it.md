@@ -12,3 +12,5 @@ author: TdFm
 ![thumb](/assets/img/flitzpiepe.png)
 
 Music
+
+![Assets](https://desgart-design.github.io/desgart/assets/) "assets")
